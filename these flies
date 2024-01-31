@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en"> 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Here's some text to edit</title>
+    <style>
+footer{color: rgba(104, 29, 29, 0.78);
+font-family: 'Courier New', Courier, monospace;}
+
+    </style>
+</header>
+<!----Don't forget buy the--->
+<main>
+    <p>Here comes the fun part!<b> Now it's time to start creating web pages. </b>The way the web works is that when you type in a web address (URL) in your web browser, your web browser issues an HTTP request.<strong Using the <code>Hypertext Transfer Protocol</code>,</strong> it seeks out the web server on The Internet that is holding the HTML file that represents the web page you want to look at. The HTML file is made up of code in plain text. The <kbd></><em>Hypertext Markup Language </em></kbd>bdis made up of tags that tell the browser how to interpret and <samp>display the page. All the hard work</samp> of formatting and presentation is done on your <mark>><small>computer by your</small> web browser</small> when it interprets </mark>the HTML code. In this lesson, you will begin to learn some of the fundamental HTML coding tags and processes necessary to create a web page.<del> Yes, there are graphic-driven programs</del> such as Dreamweaver that can be used, <ins>but learning HTML is essential for serious designers.</ins> So, that's where we start.</p>
+     <pre>
+        THe night is 
+               dark  
+      and the moose wanders far            from 
+      its        home          
+</pre>
+E=MC<sup>2&copy;</sup>
+<sup>1</sup>/<sub>2</sub>
+<ul type ="circle ">
+    <li>Cheese</li>
+    <li>More Cheese</li>
+    <li>Even more cheese</li>
+</ul>
+<ol type="1"start ="12">
+    <li>Cheese</li>
+    <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;More Cheese</li>
+    <li>Even more cheese</li> 
+</ol>
+
+<blockquote cite="cheese.com" the fun part! Now it's time to start creating web pages. The way the web works is that when you type in a web address (URL) in your web browser, your web browser issues an HTTP request. Using the Hypertext Transfer Protocol, it seeks out the web server on The Internet that is holding the HTML file that represents the web page you want to look at. The HTML file is made up of code in plain text. The Hypertext Markup Language is made up of tags that tell the browser how to interpret and display the page. All the hard work of formatting and presentation is done on your computer by your web browser when it interprets the HTML code. In this lesson, you will begin to learn some of the fundamental HTML coding tags and processes necessary to create a web page. Yes, there are graphic-driven programs such as Dreamweaver that can be used, but learning HTML is essential for serious designers. So, that's where we start.</q>
+<br>
+--Mark Twain
+</blockquote>
+
+</main>
+<p><q>This site is authored and maintained by "Jagroop Singh Dosanjh." It is not an official website of the Maricopa County Community College District, and Maricopa is not responsible for the content of this site.</q>
+
+</p>
+</footer>
+</head>
+<body>
+    
+</body>
+</html>
